@@ -1,0 +1,13 @@
+.orderedList{
+    border: 1px solid white;
+    padding: 2%;
+    display: flex;
+    list-style: none;
+   
+    
+    
+}
+li{
+    margin-right: 10%;
+    font-size: 3vh;
+}
